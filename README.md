@@ -15,7 +15,7 @@
 - **Framework**: Bootstrap-like custom components & Google Fonts.
 
 ## 🚀 Hướng dẫn triển khai
-1. Tải tệp `inde2by.html` về máy chủ của bạn.
+1. Tải tệp `index.html` về máy chủ của bạn.
 2. Cấu hình các API endpoint (nếu có) trong phần script.
 3. Chạy trực tiếp trên trình duyệt hoặc deploy qua các dịch vụ như Cloudflare Pages, GitHub Pages.
 
